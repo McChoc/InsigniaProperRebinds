@@ -1,4 +1,4 @@
-# Insignia Proper Rebinds Mod
+# Insignia Proper Rebinds
 
 A BepInEx mod for **Insignia** that allows actions that are normally tied to the same input to be rebound independently.
 
