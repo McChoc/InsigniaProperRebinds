@@ -2,14 +2,17 @@
 
 A BepInEx mod for **Insignia** that allows actions that are normally tied to the same input to be rebound independently.
 
-The mod adds separate keybinds for actions such as **Run**, **Roll**, and menu navigation while preserving the game's default controls.
+The mod adds separate keybinds for gameplay and menu navigation while preserving the game's default controls.
+
+![](./Images/Meme.png)
 
 ## Features
 
-* Separate **Run** and **Roll** bindings
-* Independent menu navigation bindings
-* Allow the player to rebind locked keybinds
-* Allow the player to assign reserved keys (return and esc)
+* Independently rebind actions that normally share a key.
+* Rebind keybinds that are normally locked by the game, including the menu keybind.
+* Allow normally reserved keys, such as Return and Escape, to be assigned to keybinds.
+
+![](./Images/Screenshot.png)
 
 ## Requirements
 
@@ -34,7 +37,7 @@ Because this mod patches Insignia's game assemblies, updates to the game may req
 
 Download **BepInEx 5** from the official BepInEx releases:
 
-[BepInEx releases](https://github.com/BepInEx/BepInEx/releases?utm_source=chatgpt.com)
+[BepInEx releases](https://github.com/BepInEx/BepInEx/releases)
 
 Make sure you download the appropriate **BepInEx 5 Windows build** for the game.
 
@@ -52,7 +55,7 @@ Insignia Playtest/
 
 The official BepInEx documentation provides additional installation instructions if needed:
 
-[BepInEx installation guide](https://docs.bepinex.dev/v5.4.16/articles/user_guide/installation/index.html?utm_source=chatgpt.com)
+[BepInEx installation guide](https://docs.bepinex.dev/v5.4.16/articles/user_guide/installation/index.html)
 
 ## 2. Run Insignia once
 
@@ -74,7 +77,7 @@ directory/file structure.
 
 Download the latest **InsigniaProperRebinds.dll** from the project's GitHub Releases page.
 
-[Latest releases](https://github.com/McChoc/InsigniaProperRebinds/releases/latest?utm_source=chatgpt.com)
+[Latest releases](https://github.com/McChoc/InsigniaProperRebinds/releases/latest)
 
 Place the downloaded DLL in the `<Insignia installation>\BepInEx\plugins` directory.
 
