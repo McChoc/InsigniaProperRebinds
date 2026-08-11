@@ -16,9 +16,8 @@ The mod adds separate keybinds for gameplay and menu navigation while preserving
 
 ## Requirements
 
-* Insignia
-* BepInEx 5
 * Windows
+* BepInEx 5
 * The version of Insignia supported by the current release
 
 This mod was developed and tested with:
